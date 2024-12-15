@@ -1,0 +1,73 @@
+header{
+    background-color: beige;
+    margin: 20px;
+}
+body{
+    background-image: url(glitter\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+    font-family: "Josefin Sans", sans-serif, Arial;
+    font-size: 2em;
+    background-color: beige;
+    margin: 20px;
+    color:rgb(255,54,175);
+    border: outset;
+    border-width: 10px;   
+}
+pre{
+    background-color: beige;
+    text-align: end;    
+    font-family:"Playwrite CO Guides", cursive;
+    font-size: 1.35em;
+    color:rgb(255,54,175);
+    border-style: outset;
+    border-width: 10px;
+    position: absolute;
+}
+p {
+    background-color: beige;
+    float: left;
+    border-style: outset;
+    border-width: 10px;
+}
+main{
+    margin: 5px;
+}
+h1{
+    text-align: center;
+    border-style: outset;
+    border-width: 10px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color:beige;
+    padding: 0px;
+    margin: 0px;
+    border: outset;
+    border-width: 10px;
+    overflow: hidden;
+}
+.navbar a{
+    color:rgb(255,54,175);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+
+}
+.navbar a:hover{
+ background-color:rgb(255,196,243) ;
+}
+.navbar li{
+   float: left;
+   border: outset;
+   border-width: 10px;
+}
+#barbie1 {
+    background-color: beige;
+}
+
